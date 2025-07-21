@@ -1,7 +1,7 @@
 # 🚀 Status Page Application - Plivo Assignment
 
 A comprehensive, multi-tenant status page application built with Flask (backend) and React (frontend) featuring real-time updates, incident management, and public status pages.
-
+<video controls src="Recording 2025-07-21 132102.mp4" title="Title"></video>
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
